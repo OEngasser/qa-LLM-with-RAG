@@ -1,7 +1,9 @@
 const Homepage = () => {
+    //! ESSAYER DnDKit (déjà DL) dans compo custom
+
     return (
-        <div className="Homepage">
-            <h1>Main title</h1>
+        <div className="homepage">
+            <h1>Home</h1>
         </div>
     );
 };
